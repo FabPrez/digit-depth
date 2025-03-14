@@ -79,4 +79,4 @@ def show_depth(cfg):
 
 if __name__ == "__main__":
     rospy.loginfo("starting...")
-    show_depth()
+    # show_depth()
